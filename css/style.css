@@ -75,7 +75,9 @@ a:hover {
 	color:#4d4d4d;
 }
 .clr-3 {
-	color:#a70101;
+	color:#131313;
+	text-shadow:#6c6c6c 0px 0px 1px;
+	position:right;
 }
 h2 {
 	font-size:40px;
@@ -395,7 +397,7 @@ select {
 	padding:25px 30px 22px 40px;
 }
 .block-1-title {
-	height:81px;
+	height:70px;
 	white-space:nowrap;
 }
 .block-1-title>span {
@@ -454,7 +456,8 @@ select {
 	padding-left:6px;
 	padding-right:10px;
 	display:inline-block;
-	margin-top:1px;
+	margin-top:70px;
+	margin-left:80px;
 }
 .block-1-title>div.text-3>strong {
 	display:block;
